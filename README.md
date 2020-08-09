@@ -7,7 +7,7 @@ Particle Swarm Optimization Algorithm That Written Python
 ## Particle Class
 ![class](https://github.com/geniusxburhan/Particle-Swarm-Optimization/blob/master/particleSwarm/images/particle.png)
 
-The particle class has "best" method that can find and return pbest value. And
+The particle class has "best" method that can find and return pbest value. 
 
 
 
